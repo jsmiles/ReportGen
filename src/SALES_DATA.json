@@ -1,0 +1,26 @@
+[
+  {
+    "ProductName": "Apple MacBook Pro 17",
+    "Colour": "Silver",
+    "Category": "Laptop",
+    "Price": "2000"
+  },
+  {
+    "ProductName": "Microsoft Surface Pro",
+    "Colour": "White",
+    "Category": "Laptop/PC",
+    "Price": "1800"
+  },
+  {
+    "ProductName": "Magic Mouse 2",
+    "Colour": "Black",
+    "Category": "Accessories",
+    "Price": "100"
+  },
+  {
+    "ProductName": "WASD Mechanical Keyboard",
+    "Colour": "Yellow/Green",
+    "Category": "Accessories",
+    "Price": "280"
+  }
+]
